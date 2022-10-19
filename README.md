@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsharb05
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack WEB Development
 - 💞️ I’m looking to collaborate with World
 - 📫 How to reach me harsharb05@gmail.com
 
