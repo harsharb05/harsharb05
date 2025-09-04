@@ -18,8 +18,10 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsharb05&theme=dark" alt="GitHub Streak"/>
+  <!-- Trying stable demolab host -->
+  <img src="https://streak-stats.demolab.com/?user=harsharb05&theme=dark" alt="GitHub Streak" />
 </p>
+
 
 <!-- Trophies: Only Show Known Stats -->
 <p align="center">
