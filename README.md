@@ -8,7 +8,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsharb05&show_icons=true&theme=dark&count_private=true" alt="Kiran0604's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harsharb05&show_icons=true&theme=dark&count_private=true" alt="harsharb05's GitHub stats"/>
 </p>
 
 <!-- Most Used Languages -->
